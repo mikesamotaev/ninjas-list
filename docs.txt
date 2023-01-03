@@ -1,0 +1,13 @@
+https://www.youtube.com/playlist?list=PL4cUxeGkcC9g9gP2onazU5-2M-AzA8eBw
+https://github.com/iamshaunjp/nextjs-tutorial
+
+Отличия SSR и SSG
+https://tsh.io/blog/ssr-vs-ssg-in-nextjs/#:~:text=SSR%20and%20SSG%20both%20improve,as%20it%20builds%20the%20application.
+https://the-evening-code.com/posts/server-side-rendering-vs-static-site-generators
+https://www.youtube.com/watch?v=xg-lajRmCco
+
+Code splitting
+https://nextjs.org/learn/foundations/how-nextjs-works/code-splitting
+
+Docs
+https://nextjs.org/docs/basic-features/data-fetching/overview
